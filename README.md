@@ -10,7 +10,9 @@ Sou formada em Análise e Desenvolvimendo de Sistemas. 🎓
 Estou em busca de oportunidades e colaborações em projetos Back-end para ampliar meus conhecimentos. </br>
 💡 Motivada a aprender e me adaptar a novas rotinas, tecnologias e padrões de codificação.
 
- </br><img height="190em" src="https://github-readme-stats.vercel.app/api?username=brunavasconceloss&amp;show_icons=true" alt="GitHub Stats">
+ </br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunavasconceloss&amp;show_icons=true" alt="GitHub Stats">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunavasconceloss&layout=compact&langs_count=7"/>
+
 
 
 ***
