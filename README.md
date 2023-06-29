@@ -6,7 +6,7 @@
 
 ##  👨‍💻 Sobre Mim
 
-Sou formada em Análise e Desenvolvimendo de Sistemas. 🎓  
+Sou formada em Análise e Desenvolvimento de Sistemas. 🎓  
 Estou em busca de oportunidades e colaborações em projetos Back-end para ampliar meus conhecimentos. </br>
 💡 Motivada a aprender e me adaptar a novas rotinas, tecnologias e padrões de codificação.
 
